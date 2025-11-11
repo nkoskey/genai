@@ -133,3 +133,21 @@ print("Well done !!!");
 
 
 }
+
+#printing odd numbers from 1 to 10
+
+with entry{
+       for i = 1 to i <= 10 by i +=1 {
+        if i % 2 ==0  {
+            continue;
+        }
+        print(i);
+       }
+    }
+    
+    
+with entry {
+ for i = 3 to i <=30 by i +=3 {
+    print(i);
+ }     
+}
